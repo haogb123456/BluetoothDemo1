@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\b416a10f70cb5e6e6d1e1bbe9d512b56ff03c96f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_8a9a40c2090fc024d13551d5d167909e91f73c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\696fb0d5c001dbd043c43cb799a8c9987b479943\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_575cb5aa1846ee225426292dfab268fcd1302529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\5d1c43b062a7ddbd7073208f34959798492c7346\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_255532a818757e303fb5702234b9a0daa681b72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\6d18512b159abc4ce791f7c26270c24b3a159c75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_7b60edd93418c313f200580c9d954d3132b3561c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_21beac5958e0bec005af36f5cc147fdc6dc7a6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\a0187439e0e23b7fae2c66409673ba41bbadfa1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_2440fba89986e9d9b4d423d96fc7ed5576245cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\460948adb75cef1ad1b4fd1dc8dfed27715892c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_57435714ccf0d7b2a285558bb623903da20951e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\406096135dcb793b827104da44ddbadbd0c9f833\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_e566da081d18bb0808e73031ea93b2214d3a759c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\7084cf9fc6661d8efd2b11028ad152fd3ec42ee8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_8cfdf89ed8e7584ef8f17b326d89ac611880ef68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\94a1cde1fa15f36a898ec80f1d9ab009f154810e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_2d2000dd3bdb1019f72e62a34143750cd70cdc9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\qlc_space\BluetoothDemo1\bluetooth\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea2e8f7aa02bc2c475016d35de5e6d220be79b56">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_596f73c430b5aa27974460667380bdc5852df695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_774fc099bc8bdae0a0a0c5abb5f87387912bd144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hgb\.android\build-cache\640bbdac40ef82a48d4e1692c12777859a93fa41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\qlc_space\BluetoothDemo1\app\build\intermediates\pre-dexed\debug\classes_5efa404433a93b7379c3fc846b46276718d7c0f0.jar" />
+    </item>
+
+</items>
